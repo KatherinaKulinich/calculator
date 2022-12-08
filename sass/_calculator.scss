@@ -4,8 +4,12 @@
     flex-direction: column;
     gap: 30px;
     
-    box-shadow:0px 0px 30px 0px rgba(255, 255, 255, .7) ;
-    background:linear-gradient(128deg, rgba(183, 213, 240, .0) 25%, rgba(69, 164, 211, .2) 50%, rgba(255, 255, 255, .0) 80%);
+    // background:linear-gradient(128deg, rgba(183, 213, 240, .0) 25%, rgba(69, 164, 211, .2) 50%, rgba(255, 255, 255, .0) 80%);
+    // background:linear-gradient(128deg, rgba(255, 255, 255, .3) 25%, rgba(255, 255, 255, .2) 80%, rgba(255, 255, 255, .1) 40%);
+    background-color: transparent;
+    box-shadow:0px 0px 30px 0px rgba(255, 255, 255, .8) ;
+    // border: 1px solid #FFFFFF;
+
 
     &__result {
         padding: 5px;
